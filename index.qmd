@@ -4,4 +4,4 @@ title: "kinderkamer"
 
 Ontdek de prachtige kinderkamer van XXX:
 
-![images/kamer.png]
+![](images/kamer.png)
