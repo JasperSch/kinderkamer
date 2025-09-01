@@ -5,3 +5,10 @@ title: "kinderkamer"
 Ontdek de prachtige kinderkamer van XXX:
 
 ![](images/kamer.png)
+
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:70%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    7.00 / 10.00
+  </div>
+</div>
