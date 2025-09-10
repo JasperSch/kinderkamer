@@ -1,14 +1,59 @@
 ---
-title: "kinderkamer"
+title: "Welkom op de kinderkamer van XXX!"
 ---
-
-Ontdek de prachtige kinderkamer van XXX:
 
 ![](images/kamer.png)
 
+## Kijk eens rond!
 
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
-  <div style="width:70%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    7.00 / 10.00
+Omdat vele spullen werden verworven via andere wegen dan de kinderwinkel, stellen we ze hier ten toon. Dan kunnen jullie volledig mee genieten van onze roze wolk.
+
+## Bijdragen
+
+Draag je graag voor een van deze stuks bij?
+
+BE82 7350 5573 4568
+
+Vermeld waarvoor je wil bijdragen.
+
+XXX Is jullie heel dankbaar!
+
+
+## Het lijstje
+
+
+![](images/commode.jpg)
+
+### Commode
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    0.00 / 400.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    0.00 / 400.00
   </div>
 </div>
+
+![](images/kast.jpg)
+
+### kast
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    0.00 / 900.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    0.00 / 900.00
+  </div>
+</div>
+
+---
+
+![](images/nachtlampje.jpg)
+
+### Nachtlampje Busje
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    0.00 / 31.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    0.00 / 31.00
+  </div>
+</div>
+
