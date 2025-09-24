@@ -23,9 +23,9 @@ XXX Is jullie heel dankbaar!
 ### Commode
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 400.00
+    € 0.00 / 400.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 400.00
+    € 0.00 / 400.00
   </div>
 </div>
 
@@ -36,9 +36,9 @@ XXX Is jullie heel dankbaar!
 ### Kleerkast
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 900.00
+    € 0.00 / 900.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 900.00
+    € 0.00 / 900.00
   </div>
 </div>
 
@@ -50,9 +50,9 @@ XXX Is jullie heel dankbaar!
 ### Nachtlampje Busje
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 31.00
+    € 0.00 / 31.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 31.00
+    € 0.00 / 31.00
   </div>
 </div>
 
@@ -63,9 +63,9 @@ XXX Is jullie heel dankbaar!
 ### Bedje
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 300.00
+    € 0.00 / 300.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 300.00
+    € 0.00 / 300.00
   </div>
 </div>
 
@@ -76,9 +76,9 @@ XXX Is jullie heel dankbaar!
 ### Maki Mat
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 35.00
+    € 0.00 / 35.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 35.00
+    € 0.00 / 35.00
   </div>
 </div>
 
@@ -89,9 +89,9 @@ XXX Is jullie heel dankbaar!
 ### Maki kussen
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 8.00
+    € 0.00 / 8.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 8.00
+    € 0.00 / 8.00
   </div>
 </div>
 
@@ -102,9 +102,9 @@ XXX Is jullie heel dankbaar!
 ### Krokodil bankje
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 112.00
+    € 0.00 / 112.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 112.00
+    € 0.00 / 112.00
   </div>
 </div>
 
@@ -112,12 +112,12 @@ XXX Is jullie heel dankbaar!
 
 ---
 
-### Beertje op de bus
+### Beertje en de bus
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 62.00
+    € 0.00 / 62.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 62.00
+    € 0.00 / 62.00
   </div>
 </div>
 
@@ -128,9 +128,9 @@ XXX Is jullie heel dankbaar!
 ### Wolken schapjes
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 50.00
+    € 0.00 / 50.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 50.00
+    € 0.00 / 50.00
   </div>
 </div>
 
@@ -141,9 +141,9 @@ XXX Is jullie heel dankbaar!
 ### Little friends knuffels
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    0.00 / 18.00
+    € 0.00 / 18.00
   <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    0.00 / 18.00
+    € 0.00 / 18.00
   </div>
 </div>
 
