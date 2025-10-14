@@ -112,19 +112,6 @@ XXX Is jullie heel dankbaar!
 
 ---
 
-### Beertje en de bus
-
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 62.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 62.00
-  </div>
-</div>
-
-![](images/bus_en_beer.jpg)
-
----
-
 ### Wolken schapjes
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
@@ -149,6 +136,8 @@ XXX Is jullie heel dankbaar!
 
 ![](images/little_friends.jpg)
 
+---
+
 ### Schommelstoel
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
@@ -159,3 +148,18 @@ XXX Is jullie heel dankbaar!
 </div>
 
 ![](images/schommelstoel.jpg)
+
+---
+
+### Beertje en de bus
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    € 0.00 / 62.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 0.00 / 62.00
+  </div>
+</div>
+
+![](images/bus_en_beer.jpg)
+
+---
