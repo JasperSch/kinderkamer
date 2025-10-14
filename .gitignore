@@ -1,3 +1,4 @@
 .project
 /.quarto/
 /images/IMG*.jpg
+/images_backup
