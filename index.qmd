@@ -1,5 +1,5 @@
 ---
-title: "Welkom op de kinderkamer van XXX!"
+title: "Welkom op de kinderkamer van Johanna!"
 ---
 
 ![](images/kamer.png)
@@ -16,7 +16,7 @@ BE82 7350 5573 4568
 
 Vermeld waarvoor je wil bijdragen.
 
-XXX Is jullie heel dankbaar!
+Johanna is jullie heel dankbaar!
 
 ## Het lijstje
 
