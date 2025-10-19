@@ -22,10 +22,9 @@ Johanna is jullie heel dankbaar!
 
 ### Commode
 
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 400.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 400.00
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:25%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 50.00 / 400.00
   </div>
 </div>
 
@@ -110,12 +109,10 @@ Johanna is jullie heel dankbaar!
 
 ---
 
-### Wolken schapjes
-
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 50.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 50.00
+### Wolken schapjes - verkocht!
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:100%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 50.00 / 50.00
   </div>
 </div>
 
