@@ -46,12 +46,11 @@ Johanna is jullie heel dankbaar!
 
 ---
 
-### Nachtlampje Busje
+### Nachtlampje Busje - verkocht!
 
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 31.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 31.00
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:100%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 35.00 / 31.00
   </div>
 </div>
 
@@ -84,12 +83,11 @@ Johanna is jullie heel dankbaar!
 
 ---
 
-### Maki kussen
+### Maki kussen - verkocht!
 
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 8.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 8.00
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:100%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 8.00 / 8.00
   </div>
 </div>
 
@@ -120,12 +118,11 @@ Johanna is jullie heel dankbaar!
 
 ---
 
-### Little friends knuffels
+### Little friends knuffels - verkocht!
 
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 18.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 18.00
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:100%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 18.00 / 18.00
   </div>
 </div>
 
@@ -133,11 +130,11 @@ Johanna is jullie heel dankbaar!
 
 ---
 
-### Schommelstoel
+### Schommelstoel - verkocht!
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 75.00 / 150.00
+  <div style="width:100%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 150.00 / 150.00
   </div>
 </div>
 
