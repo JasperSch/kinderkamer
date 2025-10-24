@@ -50,7 +50,7 @@ Johanna is jullie heel dankbaar!
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
   <div style="width:100%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 35.00 / 31.00
+    € 31.00 / 31.00
   </div>
 </div>
 
