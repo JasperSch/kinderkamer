@@ -43,6 +43,44 @@ Johanna is jullie heel dankbaar!
 
 ![](images/kast.jpg)
 
+---
+
+### Verzorgingstafel Troll
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    € 0.00 / 80.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 0.00 / 80.00
+  </div>
+</div>
+
+![](images/verzorgingstafel_troll.jpg)
+
+---
+
+### Verzorgingstafel Quax
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    € 0.00 / 80.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 0.00 / 80.00
+  </div>
+</div>
+
+![](images/verzorgingstafel_quax.jpg)
+
+---
+
+### Knuffel Octopus
+
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
+    € 0.00 / 8.00
+  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 0.00 / 8.00
+  </div>
+</div>
+
+![](images/knuffel_octopus.jpg)
 
 ---
 
@@ -60,10 +98,9 @@ Johanna is jullie heel dankbaar!
 
 ### Bedje
 
-<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;text-align:center;">
-    € 0.00 / 300.00
-  <div style="width:50%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
-    € 0.00 / 300.00
+<div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
+  <div style="width:40%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
+    € 125.00 / 300.00
   </div>
 </div>
 
@@ -95,7 +132,7 @@ Johanna is jullie heel dankbaar!
 
 ---
 
-### Krokodil bankje
+### Krokodil bankje - verkocht!
 
 <div style="width:100%;background:#eee;border-radius:8px;overflow:hidden;height:24px;margin:1em 0;">
   <div style="width:90%;background:#4CAF50;height:100%;text-align:center;color:white;line-height:24px;font-weight:bold;">
