@@ -6,7 +6,7 @@ website:
   title: "kinderkamer"
   navbar:
     left:
-      - href: offline.qmd
+      - href: index.qmd
         text: Home
 
 format:
